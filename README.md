@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sairessy
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning react, react-native
-- 💞️ I’m looking to collaborate on any codding project
+- 🌱 And i create things with code
 - 📫 How to reach me?! <sairessy@gmail.com>
 
 <!---
