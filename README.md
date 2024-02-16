@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sairessy
-- 🌱 And i create things with code
+- 🌱 I create things with code
 - 📫 How to reach me?! <sairessy@gmail.com>
 
 <!---
