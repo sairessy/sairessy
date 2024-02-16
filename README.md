@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sairessy
-- 👀 I’m interested in codding
 - 🌱 And i create things with code
 - 📫 How to reach me?! <sairessy@gmail.com>
 
